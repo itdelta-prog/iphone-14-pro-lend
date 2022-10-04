@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="intro-subtitle">Поздравляем!</div>
-                    <div class="intro-title">Вы выиграли iPhone iPhone 14 Pro</div>
+                    <div class="intro-title">Вы выиграли iPhone 14 Pro</div>
                 </div>
             </div>
             <div class="row align-items-center">
@@ -201,62 +201,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-
-    <div class="legal-block">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="text-center mb-0">
-                        <div class="terms-info">
-                            <p class="legal-block__title">
-                                Ты можешь выиграть iPhone 14 Pro уже сегодня! Участвуй в лотерее! Мы свяжемся с
-                                победителем по электронной почте.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-4">
-                    <h4 class="legal-block__title">Как я могу выиграть?</h4>
-                    <div class="legal-block__text">
-                        Благодаря подписке ты также участвуешь в нашем конкурсе на победу в iPhone 14 Pro. Мы
-                        выбираем победителя из каждых 600 участников. Следующий победитель будет выбран
-                        15.06.2021 г. и получит уведомление по электронной почте. Если iPhone нет в наличии,
-                        победитель получит аналогичный товар или другой товар с большей стоимостью.
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <h4 class="legal-block__title">Есть какие-то скрытые комиссии?</h4>
-                    <div class="legal-block__text">
-                        Мы гарантируем, что нашим участникам предоставляется подробная история транзакций, и благодаря этому они знают, за что они платят. Информация о кредитной карте требуется только для облегчения будущих покупок. В выписке по кредитной карте не будет никаких сборов, если ты отменишь подписку на веб-сайте нашего партнера в личном кабинете.
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <h4 class="legal-block__title">Зачем мне нужна платежная информация?</h4>
-                    <div class="legal-block__text">
-                        Оставив свои контактные данные, ты получишь 3-дневную пробную версию программы нашего партнера. Если ты продолжишь подписку после 3-дневного пробного периода, с твоей кредитной карты будет сниматься 625 рублей каждые 14 дней. Когда сумма будет списана с карты, ты получишь доступ к услугам, которые предназначены исключительно для участников веб-сайта нашего партнера, на 14 дней.
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-md-4">
-                    <div style="text-align: center; padding-top: 15px">Мы принимаем кредитные карты</div>
-                    <div style="text-align: center; padding-bottom: 15px">
-                        <img class="cards img-fluid" alt="paycards" src="img/paycards.png" />
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="wrapper-button">
-            <span class="noclick" style="cursor: pointer" onclick="openModal(this)" data-target="modalPolitic"> Политика конфиденциальности &nbsp; </span>
-            <span class="noclick" onclick="openModal(this)" data-target="modalСonditions" style="cursor: pointer"
-            ><small>|&nbsp;&nbsp;</small> Условия и положения
-        </span>
         </div>
     </div>
 
