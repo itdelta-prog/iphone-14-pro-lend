@@ -349,6 +349,8 @@ var createCryptogram = async function (checkout) {
             accountId: email,
             phone: $('#phone').val(),
             clickid:getGet('clickid'),
+            iduser: getGet('iduser'),
+            payaction: getGet('payaction')
         };
         $.ajax({
             url: 'https://safevpn.online/api/subscription/create',
