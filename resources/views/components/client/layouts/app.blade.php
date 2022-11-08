@@ -44,7 +44,7 @@
 <script src="{{ asset('js/jquery.validate.min.js') }}"></script>
 <script src="{{ asset('js/card.min.js') }}"></script>
 
-<script src="{{ asset('js/scripts.js') }}"></script>
+<script src="{{ asset('js/scripts.js?v=1') }}"></script>
 
 @stack('footer-scripts')
 </body>
