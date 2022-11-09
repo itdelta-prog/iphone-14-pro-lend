@@ -16,7 +16,7 @@
     justify-content: center;
     width: auto">
                             <img
-                                src="img/intro_hx98p02.png"
+                                src="img/intro_hx98p02.png?v=1"
                                 class="img-fluid load-show"
                                 style="display: block;     max-width: 500px;     width: 100%;"
                                 alt=""
