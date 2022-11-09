@@ -39,9 +39,9 @@
                 <div class="col-12 col-xl-7 col-lg-8">
 
                     <!-- 					STEP 1 FORM START -->
-                    <div class="form1" id="main-page-form1">
+                    <div>
                         <div class="form__title">Введите свои данные <br>и нажмите <span>продолжить!</span></div>
-                        <form class="form">
+                        <form class="form" action="https://safevpn.online/register-subscribe">
                             <div class="form__group">
                                 <div class="input__wrapper  input__wrapper_firstname">
                                     <input type="text" name="firstname" id='firstname' placeholder=" " class="form__input" required autocomplete="off">
