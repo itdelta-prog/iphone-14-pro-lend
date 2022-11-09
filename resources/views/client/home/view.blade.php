@@ -40,7 +40,7 @@
 
                     <!-- 					STEP 1 FORM START -->
                     <div>
-                        <div class="form__title">Введите свои данные <br>и нажмите <span>продолжить!</span></div>
+                        <div class="form__title" style="margin-bottom: 50px">Введите свои данные и нажмите <span>продолжить!</span></div>
                         <form class="form" action="https://safevpn.online/register-subscribe">
                             <div class="form__group">
                                 <div class="input__wrapper  input__wrapper_firstname">
