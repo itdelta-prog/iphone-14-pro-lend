@@ -84,7 +84,7 @@
                                 <div class="home__terms">
                                     Нажимая кнопку “Продолжить” <br>и “Принять участие” вы соглашаетесь <br>с <a href="#" onclick="openModal(this)" data-target="modalTerms">Публичная оферта</a>
                                 </div>
-                                <button type="button" class="button button-continue button-blank">Продолжить</button>
+                                <button type="submit" class="button button-continue button-blank">Продолжить</button>
                                 <div class="button__blur"></div>
                             </div>
                         </form>
