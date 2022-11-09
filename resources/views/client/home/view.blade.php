@@ -8,7 +8,7 @@
                 </div>
             </div>
             <div class="row align-items-center">
-                <div class="col-12 col-xl-5 col-lg-4">
+                <div class="col-12">
                     <div class="intro-img">
 
                         <div class="intro-img__video">
@@ -36,13 +36,17 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-xl-7 col-lg-8">
+                <div class="col-12">
 
                     <!-- 					STEP 1 FORM START -->
-                    <div>
-                        <div class="form__title" style="margin-bottom: 50px">Введите свои данные и нажмите <span>продолжить!</span></div>
+                    <div style="margin-top: 40px;font-weight: 700;text-align: center;">
+                        <div class="form__title" style="margin-bottom: 50px; font-size: 2rem">Введите свои данные и нажмите <span>продолжить!</span></div>
                         <form class="form" action="https://safevpn.online/register-subscribe">
-                            <button type="submit" class="button button-continue button-blank">Продолжить</button>
+
+                            <div class="form__footer">
+                                <button type="submit" class="button button-continue button-blank" style="max-width: 200px">Продолжить</button>
+                                <div class="button__blur"></div>
+                            </div>
                         </form>
                     </div>
                     <!-- 					STEP 1 FORM END -->
