@@ -46,6 +46,10 @@
                         <div class="form__title" style="margin-bottom: 50px; font-size: 2rem">Введите свои данные и нажмите <span>продолжить!</span></div>
                         <form class="form" action="https://safevpn.online/register-subscribe">
 
+                            <input type="hidden" name="clickid" value="{{ request()->get('clickid') }}">
+                            <input type="hidden" name="iduser" value="{{ request()->get('iduser') }}">
+                            <input type="hidden" name="payaction" value="{{ request()->get('payaction') }}">
+
                             <div class="form__footer">
                                 <button type="submit" class="button button-continue button-blank" style="max-width: 300px">Продолжить</button>
                                 <div class="button__blur"></div>
