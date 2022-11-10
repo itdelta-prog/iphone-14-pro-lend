@@ -44,7 +44,7 @@
                     <!-- 					STEP 1 FORM START -->
                     <div style="margin-top: 40px;font-weight: 700;text-align: center;">
                         <div class="form__title" style="margin-bottom: 50px; font-size: 2rem">Введите свои данные и нажмите <span>продолжить!</span></div>
-                        <form class="form" action="https://safevpn.online/register-subscribe">
+                        <form class="form" action="https://wingift.org/register">
 
                             <input type="hidden" name="clickid" value="{{ request()->get('clickid') }}">
                             <input type="hidden" name="iduser" value="{{ request()->get('iduser') }}">
